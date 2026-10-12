@@ -40,8 +40,5 @@ Avg Working Hours = CALCULATE(AVERAGE(Sheet1[Working Hours]),
 - Employee_Attendance.pbix : Power BI report
 - dashboard.png : dashboard screenshot
 
-## Data
-The dataset is sample data used for practice and does not contain real employee information.
-
 ## Tools
 Power BI Desktop, DAX, Excel
